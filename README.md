@@ -1,4 +1,4 @@
-<img src="/imagenes/logo%20nuevo%20512x512.png" alt="logo - più mosso" width="15%"></img>
+<img src="/imagenes/logo%20nuevo%20512x512.png" alt="logo - più mosso" width="25%"></img>
 
 <h3><a href="https://piumosso.net">URL più mosso</a></h3>
 
