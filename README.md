@@ -1,6 +1,6 @@
-<img src="/imagenes/logo%20nuevo%20512x512.png" alt="logo - più mosso" width="10%"></img>
+<img src="/imagenes/logo%20nuevo%20512x512.png" alt="logo - più mosso" width="15%"></img>
 
-<h3><a href="https://piumosso.net>URL più mosso</a></h3>
+<h3><a href="https://piumosso.net">URL più mosso</a></h3>
 
 <table>
     <tr>
@@ -15,6 +15,6 @@ Esperamos tu colaboración y aportación por medio de comentarios y correo elect
 Fecha de comienzo de creación: 21-07-2022
 Fecha prevista de publicación: (final de agosto)
 
-<a href="mailto:clsard@gmail.com">Envíanos un email para contactar con nossotros</a>
+<a href="mailto:admin@piumosso.net">Envíanos un email para contactar con nossotros</a>
 
 
