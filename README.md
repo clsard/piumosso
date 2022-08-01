@@ -1,6 +1,6 @@
-<img src="imagenes/paralogopiumossorecortado.png" alt="logo - più mosso" width="75%"></img>
+<img src="/imagenes/logo%20nuevo%20512x512.png" alt="logo - più mosso" width="10%"></img>
 
-<h3><a href="https://piumosso.es">URL più mosso</a></h3>
+<h3><a href="https://piumosso.net>URL più mosso</a></h3>
 
 <table>
     <tr>
