@@ -17,4 +17,5 @@ Fecha prevista de publicación: (final de agosto)
 
 <a href="mailto:clsard@gmail.com">Envíanos un email para contactar con nossotros</a>
 
+esto esta hecho ahora mismo desde vscode
 
