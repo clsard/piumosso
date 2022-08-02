@@ -17,5 +17,4 @@ Fecha prevista de publicación: (final de agosto)
 
 <a href="mailto:admin@piumosso.net">Envíanos un email para contactar con nossotros</a>
 
-esto esta hecho ahora mismo desde vscode
 
