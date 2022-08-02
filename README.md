@@ -17,4 +17,4 @@ Fecha prevista de publicación: (final de agosto)
 
 <a href="mailto:admin@piumosso.net">Envíanos un email para contactar con nossotros</a>
 
-
+esta linea está hecha desde nuevo repositorio local en Q:
