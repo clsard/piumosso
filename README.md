@@ -1,6 +1,6 @@
 <img src="/imagenes/logo%20nuevo%20512x512.png" alt="logo - più mosso" width="25%"></img>
 
-<h3><a href="https://piumosso.net">URL più mosso</a></h3>
+<h3><a href="https://piumosso.es">URL più mosso</a></h3>
 
 <table>
     <tr>
@@ -15,6 +15,6 @@ Esperamos tu colaboración y aportación por medio de comentarios y correo elect
 Fecha de comienzo de creación: 21-07-2022
 Fecha prevista de publicación: (final de agosto)
 
-<a href="mailto:admin@piumosso.net">Envíanos un email para contactar con nossotros</a>
+<a href="mailto:admin@piumosso.es">Envíanos un email para contactar con nossotros</a>
 
-esta linea está hecha desde nuevo repositorio local en Q:
+
